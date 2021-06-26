@@ -1,5 +1,9 @@
 body{
     background-color: aqua;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    
+
+}
+p{
+    margin: auto;
+    width: 50%;
 }
